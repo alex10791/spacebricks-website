@@ -1,0 +1,15 @@
+---
+title: Graphicator
+subtitle: Open-Source Graphql Security Tool
+layout: default
+modal-id: 6
+date: 2014-07-15
+img: graphicator.png
+thumbnail: graphicator-thumbnail.png
+alt: graphicator
+project-date: January 2023
+client: Start Bootstrap
+category: Open-Source
+description: Graphicator is a famous open-source GraphQL "scraper" / extractor that has received multiple stars on Github and multiple mentions in Cyber Security articles.
+
+---

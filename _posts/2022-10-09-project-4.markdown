@@ -1,0 +1,15 @@
+---
+title: BLE:Bit
+subtitle: Hardware design
+layout: default
+modal-id: 4
+date: 2022-10-09
+img: blebit.png
+thumbnail: blebit-thumbnail.png
+alt: BLE:Bit image
+project-date: October 2022
+client: Start Bootstrap
+category: Hardware Development
+description: BLE:Bit is a tool for Bluetooth Low Energy. The tool can be used in various ways, but the main reason of its development is to help Cyber Security community to conduct penetration tests on BLE-enabled devices more easily.
+
+---

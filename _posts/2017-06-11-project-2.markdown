@@ -1,0 +1,15 @@
+---
+title: Blockchain
+subtitle: Blockchain Engineering
+layout: default
+modal-id: 2
+date: 2014-07-17
+img: blockchain.png
+thumbnail: blockchain-thumbnail.png
+alt: blockchain image
+project-date: April 2014
+client: Start Bootstrap
+category: Blockchain Development
+description: We develop secure, scalable blockchain solutions that drive innovation, enhance trust, and enable new business models.
+
+---

@@ -1,0 +1,15 @@
+---
+title: pbrev
+subtitle: Protobuf Reverse Engineering Tool
+layout: default
+modal-id: 5
+date: 2021-04-04
+img: protobuf.png
+thumbnail: protobuf-thumbnail.png
+alt: screenshot of the pbrev tool
+project-date: April 2021
+client: In-house
+category: Tools
+description: We designed a protobuf reverse engineering tool that can generate a valid .proto file from raw protobuf. It auto-detects types and allows type changes and field renaming. This is very useful when using tools like burp or when developing PoCs for security research.
+
+---
